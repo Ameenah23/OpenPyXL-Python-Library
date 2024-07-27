@@ -18,9 +18,11 @@ hashtag#DataScience hashtag#Python hashtag#Excel hashtag#Pandas hashtag#Openpyxl
 
 On Google Books
 
-https://lnkd.in/ec6Fjm6J
+[https://lnkd.in/ec6Fjm6J
+](https://books.google.ca/books?id=YdoVEQAAQBAJ&newbks=0&printsec=frontcover&pg=PP1&dq=OpenPyXL+Python+Library&hl=en&source=newbks_fb&redir_esc=y#v=onepage&q=OpenPyXL%20Python%20Library&f=false)
 
 On Amazon
+
 https://www.amazon.ca/OpenPyXL-Python-Library-Capabilities-Integrate/dp/1068925949/ref=sr_1_1?crid=383UAM8VQRAT8&dib=eyJ2IjoiMSJ9.0SR1R5GLYEL4fnhkUfBGJ0zvJfOjpryrZhSR1pkJ-rtuyK-SKVmigCpGXkWahaI0QeWHnPyXEd1luWFfJ3_gjQ.JNwROyEP3MyS7D2CUHH76g4-cVlkVwHCbjX3FcAgOc0&dib_tag=se&keywords=OpenPyXL+Python+Library&qid=1722053009&sprefix=openpyxl+python+library%2Caps%2C101&sr=8-1
 
 https://www.amazon.ca/OpenPyXL-Library-Powerful-Capabilities-Integrate-ebook/dp/B0D9XYC3V5/ref=sr_1_4?crid=383UAM8VQRAT8&dib=eyJ2IjoiMSJ9.0SR1R5GLYEL4fnhkUfBGJ0zvJfOjpryrZhSR1pkJ-rtuyK-SKVmigCpGXkWahaI0QeWHnPyXEd1luWFfJ3_gjQ.JNwROyEP3MyS7D2CUHH76g4-cVlkVwHCbjX3FcAgOc0&dib_tag=se&keywords=OpenPyXL+Python+Library&qid=1722053009&sprefix=openpyxl+python+library%2Caps%2C101&sr=8-4
