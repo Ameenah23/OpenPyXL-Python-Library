@@ -23,11 +23,6 @@ On Google Books
 
 On Amazon
 
-https://www.amazon.ca/OpenPyXL-Python-Library-Capabilities-Integrate/dp/1068925949/ref=sr_1_1?crid=383UAM8VQRAT8&dib=eyJ2IjoiMSJ9.0SR1R5GLYEL4fnhkUfBGJ0zvJfOjpryrZhSR1pkJ-rtuyK-SKVmigCpGXkWahaI0QeWHnPyXEd1luWFfJ3_gjQ.JNwROyEP3MyS7D2CUHH76g4-cVlkVwHCbjX3FcAgOc0&dib_tag=se&keywords=OpenPyXL+Python+Library&qid=1722053009&sprefix=openpyxl+python+library%2Caps%2C101&sr=8-1
+https://www.amazon.com/dp/B0D9ZJLF5K
 
-https://www.amazon.ca/OpenPyXL-Library-Powerful-Capabilities-Integrate-ebook/dp/B0D9XYC3V5/ref=sr_1_4?crid=383UAM8VQRAT8&dib=eyJ2IjoiMSJ9.0SR1R5GLYEL4fnhkUfBGJ0zvJfOjpryrZhSR1pkJ-rtuyK-SKVmigCpGXkWahaI0QeWHnPyXEd1luWFfJ3_gjQ.JNwROyEP3MyS7D2CUHH76g4-cVlkVwHCbjX3FcAgOc0&dib_tag=se&keywords=OpenPyXL+Python+Library&qid=1722053009&sprefix=openpyxl+python+library%2Caps%2C101&sr=8-4
-
-
-
-![cover book 1](https://github.com/user-attachments/assets/cf9f92f9-5294-4220-a6b7-29c3d28d87b8)
 
